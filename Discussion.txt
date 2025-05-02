@@ -1,12 +1,12 @@
 NASDelay :
 
-Reason: This could be due to changes in air traffic control regulations, more flight congestion, or system inefficiencies in the current period compared to the reference period.
+NASDelay shows high drift due to consistently higher and more variable current delays compared to historical data, likely caused by increased congestion, operational changes, or external disruptions in the airspace system.
 
 CarrierDelay:
 
-Reason: Potential changes in airline operational performance — e.g., staffing issues, route changes, or fleet maintenance schedules may have worsened.
+CarrierDelay shows low drift because the current and reference means are nearly identical, with minimal variation, indicating stable carrier performance over time.
 
 WeatherDelay:
 
-Reason: Variations in seasonal weather patterns — e.g., more storms, snow, or fog in the current period could explain the increase.
+The drift is low because the current mean closely matches the reference mean, and the data stays well within the reference's standard deviation range, indicating minimal distribution change.
 
