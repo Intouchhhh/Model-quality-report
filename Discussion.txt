@@ -1,0 +1,12 @@
+NASDelay :
+
+Reason: This could be due to changes in air traffic control regulations, more flight congestion, or system inefficiencies in the current period compared to the reference period.
+
+CarrierDelay:
+
+Reason: Potential changes in airline operational performance — e.g., staffing issues, route changes, or fleet maintenance schedules may have worsened.
+
+WeatherDelay:
+
+Reason: Variations in seasonal weather patterns — e.g., more storms, snow, or fog in the current period could explain the increase.
+
